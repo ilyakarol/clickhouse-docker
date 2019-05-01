@@ -1,0 +1,3 @@
+https://clickhouse-builds.s3.yandex.net/5154/be91f09417a7e033cb730adffa3148fb049d691b/422786534/clickhouse-common-static_19.8.1.420_amd64.deb
+https://clickhouse-builds.s3.yandex.net/5154/be91f09417a7e033cb730adffa3148fb049d691b/422786534/clickhouse-client_19.8.1.420_all.deb
+https://clickhouse-builds.s3.yandex.net/5154/be91f09417a7e033cb730adffa3148fb049d691b/422786534/clickhouse-server_19.8.1.420_all.deb
